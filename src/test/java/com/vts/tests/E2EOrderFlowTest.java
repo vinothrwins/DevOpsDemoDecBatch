@@ -46,6 +46,7 @@ public class E2EOrderFlowTest {
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(0,TimeUnit.SECONDS);
         System.out.println("Application Launched successfully");
+        System.out.println("Continous Testing is done");
     }
 
     @Test
