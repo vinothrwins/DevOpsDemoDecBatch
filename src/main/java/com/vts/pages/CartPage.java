@@ -5,6 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+// Code updated by Vinoth R
 /**
  * Page Object Model for the Shopping Cart page.
  * This version uses PageFactory.
